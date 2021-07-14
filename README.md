@@ -6,4 +6,4 @@ Adicional a esto elementos de caida tendran comportamiento de bonus y tambien el
 
                             PRIMER BOSQUEJO
 
-![Borrador](https://photos.app.goo.gl/pfkwK1MXocjJk32W9)
+![Borrador](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lavanguardia.com%2Fhistoriayvida%2Fhistoria-contemporanea%2F20180611%2F47312986353%2Fque-aporto-a-la-ciencia-alan-turing.html&psig=AOvVaw3-_LCnOgliLdrR3xBV-N3a&ust=1626372585030000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPiViJWU4_ECFQAAAAAdAAAAABAD)
