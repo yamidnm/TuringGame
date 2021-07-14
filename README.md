@@ -6,4 +6,4 @@ Adicional a esto elementos de caida tendran comportamiento de bonus y tambien el
 
                             PRIMER BOSQUEJO
 
-![Borrador 1](https://drive.google.com/open?id=1BWPNmkfh_czc6yihaZucmYEs7KUUoP4h)
+![Borrador 1] (https://drive.google.com/open?id=1BWPNmkfh_czc6yihaZucmYEs7KUUoP4h)
